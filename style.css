@@ -743,7 +743,7 @@ footer {
     display: none; }
 
   main .videodean .overskrift .h1million {
-    font-size: 350%; }
+    font-size: 300%; }
 
   main .videodean .center2 {
     margin-left: 10%;
@@ -770,6 +770,9 @@ main .videodean .center2 .deanvideo .videoframe .videoframeouter .videoframeinne
 main .galmobil{
   margin-top: 10em;}
 
+main .galmobil .overskrift2 .h1hundred {
+  font-size: 300%;
+}
 }/*lukker mq 414*/
 
 /*# sourceMappingURL=style.css.map */
